@@ -21,6 +21,7 @@
 </a>
 
 
+
 <br/>
 <br/>
 
@@ -37,6 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+![Rayman's github stats](https://github-readme-stats.vercel.app/api?username=aniket4206&bg_color=#1c0505&title_color=fff&text_color=fff)
 
 <div align="center">
 
